@@ -1,6 +1,3 @@
-# llm-sql-query-generator
-LLM based project to generate SQL query on the basis of given prompt
-
 # 🧠 LLM-Based SQL Query Generator
 
 A natural language interface that allows non-technical users to generate SQL queries from human-like prompts using a fine-tuned Large Language Model (LLM). This project demonstrates how advanced language models can bridge the gap between technical databases and user-friendly interfaces.
@@ -86,14 +83,3 @@ Muhammad Mubashir
 
 This project is licensed under the MIT License.
 
-```
-
-
-### ✅ What to Do Next:
-1. Copy the content above into a file named `README.md`.
-2. Upload it to your GitHub repo.
-3. Add your code files (`app.py`, model logic, etc.) gradually.
-
-
-Let me know when the next repository is ready or if you'd like help generating a `requirements.txt` or setting up `streamlit` app code.
-```
